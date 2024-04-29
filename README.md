@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sumair Baloch</h1>
 <h3 align="center">A passionate Flutter dveloper from Pakistan!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumair000&label=Profile%20views&color=0e75b6&style=flat" alt="sumair000" /> </p>
-
 - 🌱 I’m currently learning **Flutter from Udemy.**
 
 - 👯 I’m looking to collaborate on **Mobile App development**
 
 - 🤝 I’m looking for help with **Flutter community**
 
-- 💬 Ask me about **DART,OOP,DSA,C++,PYTHON,SQL**
+- 💬 Ask me about **DART /OOP /DSA /C++ /PYTHON /SQL**
 
 - 📫 How to reach me **sumairkhan0091@gmail.com**
 
