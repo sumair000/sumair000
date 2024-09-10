@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumair Baloch</h1>
 
-- 💬 Ask me about **OOP/DSA/C++/DART/SQL/PYTHON**
+- 💬 Ask me about **OOP/DSA/DBMS/RDBMS/FUNCTIONAL PROGRAMMING**
 
 - 📫 How to reach me **sumairkhan0091@gmail.com**
 
