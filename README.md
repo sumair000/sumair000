@@ -1,17 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sumair Baloch</h1>
-<h3 align="center">A passionate Flutter developer! </h3>
-
-- 🌱 I’m currently learning **Flutter**
-
-- 👯 I’m looking to collaborate on **Mobile App development**
-
-- 🤝 I’m looking for help with **Flutter community**
 
 - 💬 Ask me about **OOP/DSA/C++/DART/SQL/PYTHON**
 
 - 📫 How to reach me **sumairkhan0091@gmail.com**
 
-- ⚡ Fun fact **Lazy but Crazy**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
