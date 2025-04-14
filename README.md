@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm sumair</h1>
-<h3 align="center">A passionate backend developer.</h3>
-
-- 🔭 I completed a project **Dice Tournament**
-
-- 🌱 I’m currently learning **Vanilla js**
-
-- 💬 Ask me about **javascript**
+<h3 align="center">A passionate Data Scientist.</h3>
 
 - 📫 How to reach me **sumairkhan0091@gmail.com**
 
